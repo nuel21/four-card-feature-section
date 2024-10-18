@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    overflow: hidden;
+}
+.first{
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    padding: 10px 0 0 0; 
+
+}
+div{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    padding: 10px;
+}
+.super{
+    position: relative;
+    left: 18%;
+    top:130px;
+    border-top: 4px solid cyan;
+}
+.Team{
+    position: relative;
+    left: 40%;
+    top: -180px;
+    border-top: 4px solid red;
+}
+.karma{
+    position: relative;
+    left: 40%;
+    top: -140px;
+    border-top: 4px solid orange;
+}
+.Cal{
+    position: relative;
+    left: 62%;
+    top:-520px;
+    border-top: 4px solid blue;
+}
+div h1{
+    text-align: center;
+}
+div p{
+    color:hsl(229, 6%, 66%);
+
+}
+img {
+width: 50px;
+position: relative;
+top: 60px;
+left: 80%;
+}
